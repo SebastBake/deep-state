@@ -1,3 +1,5 @@
+# Deprecated in favour of [issimoteam/deep-state](https://github.com/issimoteam/deep-state)
+
 A simple state store. Performs a deep comparison before calling the callbacks.
 
 [![size](https://img.shields.io/bundlephobia/minzip/@sebastbake/deep-state)](https://bundlephobia.com/result?p=@sebastbake/deep-state)
